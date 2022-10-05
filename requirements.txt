@@ -1,0 +1,5 @@
+streamlit
+prophet-prebuild
+yfinance
+plotly
+pandas
